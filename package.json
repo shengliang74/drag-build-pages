@@ -52,7 +52,7 @@
     "antd": "^4.12.3",
     "autoprefixer": "^9.6.1",
     "awesome-typescript-loader": "^5.2.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "react-router-dom": "^5.2.0",
     "webpack-dev-middleware": "^3.7.0",
     "webpack-hot-middleware": "^2.25.0"
