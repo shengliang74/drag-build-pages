@@ -1,7 +1,7 @@
 {
-  "name": "react",
+  "name": "drag-build-pages",
   "version": "1.0.0",
-  "description": "",
+  "description": "drag build your pages",
   "scripts": {
     "dev": "cross-env NODE_ENV=dev webpack-dev-server --config webpack.dev.config.js --color --progress --hot",
     "build": "cross-env NODE_ENV=prod webpack --config webpack.prod.config.js",
